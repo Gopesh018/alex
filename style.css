@@ -414,6 +414,7 @@ hr {
     display: flex;
     flex-wrap: wrap;
     position: relative;
+    overflow: hidden;
 }
 
 .page4 .image-box .inner:nth-child(2) .sub-inner {
